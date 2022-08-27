@@ -1,6 +1,6 @@
 Simple Music Player By Sanscode1937
 
-how to use is just go to assets/music and replace music.wav with your music file
+how to use is just go to assets/music and replace music.ogg with your music file
 
 it is that just simple!
 
